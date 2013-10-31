@@ -879,6 +879,7 @@ h2.suf-mag-category-title { font-family: "Georgia", serif; }
 
 
 #wrapper a[rel*="shadowbox"]:hover,
+#wrapper a[class*="mosaic"]:hover,
 #wrapper .snapshot a:hover {
 	/*color: inherit !important;*/
 
@@ -931,6 +932,8 @@ input[type="submit"].searchsubmit {
 	border-radius: 0;
 }
 label.search-hl { color: #bbb; }
+
+
 
 
 /* Plugins */
