@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	background-color:#556 !important;
+
 	background-image:
 		-webkit-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
 		-webkit-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
@@ -8,27 +9,6 @@ body {
 		-webkit-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
 		-webkit-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
 		-webkit-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a) !important;
-	background-image:
-		-moz-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-moz-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-moz-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-moz-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-moz-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
-		-moz-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a) !important;
-	background-image:
-		-ms-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-ms-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-ms-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-ms-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-ms-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
-		-ms-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a) !important;
-	background-image:
-		-o-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-o-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-o-linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-o-linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-		-o-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
-		-o-linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a) !important;
 	background-image:
 		linear-gradient(60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
 		linear-gradient(-60deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
@@ -38,9 +18,6 @@ body {
 		linear-gradient(30deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a) !important;
 
 	-webkit-background-size:80px 140px !important;
-	-moz-background-size:80px 140px !important;
-	-ms-background-size:80px 140px !important;
-	-o-background-size:80px 140px !important;
 	background-size:80px 140px !important;
 
 	background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px !important;
